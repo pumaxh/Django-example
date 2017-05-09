@@ -1,1 +1,1 @@
-#Django-example coordination
+#Django-example
